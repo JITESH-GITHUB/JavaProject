@@ -15,5 +15,7 @@ public class ExceptionHandling {
             System.out.println("Hello!!");
         }
         System.out.println("hii");
+        System.out.println("hii");
+        System.out.println("hii");
     }
 }
