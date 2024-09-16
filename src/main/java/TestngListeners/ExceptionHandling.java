@@ -10,6 +10,9 @@ public class ExceptionHandling {
         }catch (Exception e){
             System.out.println(e);
             System.out.println("Hello!!");
+            System.out.println("Hello!!");
+            System.out.println("Hello!!");
+            System.out.println("Hello!!");
         }
         System.out.println("hii");
     }
